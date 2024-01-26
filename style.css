@@ -3,7 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: 696969;
+    background-color: #696969;
+}
+
+img {
+    height: 200px;
+    width: 30%;
 }
 
 header {
