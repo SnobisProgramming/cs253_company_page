@@ -1,9 +1,9 @@
-body {
+Obody {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: 696969;
+    background-color: #696969;
 }
 
 header {
